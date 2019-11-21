@@ -1,0 +1,2 @@
+# NgcNam
+AI, Big Data
